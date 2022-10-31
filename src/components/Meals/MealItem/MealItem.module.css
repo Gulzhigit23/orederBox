@@ -17,3 +17,22 @@
     color: #AD5502;
     font-size: 1.25rem;
   }
+
+  .amount {
+    display: flex;
+    flex-direction: column;
+  }
+  .amount button {
+    width: 95px;
+    height: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: lightgray;
+  }
+  .amount button:hover{
+    background-color: lightblue ;
+  }
+  .amount span {
+    color: #AD5502;
+    font-size: 1.25rem;
+  }
