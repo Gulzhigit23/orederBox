@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/orederBox/static/css/main.95dbc88c.css",
+    "main.js": "/orederBox/static/js/main.fe4132ce.js",
+    "static/media/meals.jpg": "/orederBox/static/media/meals.46a522b40fd53b469b50.jpg",
+    "index.html": "/orederBox/index.html",
+    "main.95dbc88c.css.map": "/orederBox/static/css/main.95dbc88c.css.map",
+    "main.fe4132ce.js.map": "/orederBox/static/js/main.fe4132ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95dbc88c.css",
+    "static/js/main.fe4132ce.js"
+  ]
+}
