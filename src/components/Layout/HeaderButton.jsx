@@ -9,7 +9,7 @@ function HeaderButton() {
         <CardIcon/>
       </span>
       <span>your card</span>
-      <span>3</span>
+      <span className={classes.badge}>3</span>
     </button>
   );
 }
